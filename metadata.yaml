@@ -1,5 +1,5 @@
 _repo: Les-Bains-de-Bade-Petit-Roman-d-aventures-Galantes-et-Norales_61500
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Barbier, George
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/George_Barbier
     - https://en.wikipedia.org/wiki/George_Barbier_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 61500-h/images/cover.jpg
 creator:
   author:
     agent_name: Boylesve, René
@@ -25,6 +28,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
     - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61500#Les-Bains-de-Bade-Petit-Roman-d-aventures-Galantes-et-Norales
 gutenberg_bookshelf:
 - FR Séduction et libertinage
 - FR Illustrateurs
