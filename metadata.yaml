@@ -1,0 +1,45 @@
+_repo: Les-Bains-de-Bade-Petit-Roman-d-aventures-Galantes-et-Norales_61500
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Barbier, George
+    alias: Barbier, Georges Augustin
+    birthdate: 1882
+    deathdate: 1932
+    gutenberg_agent_id: '51461'
+    url: http://www.gutenberg.org/2009/agents/51461
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/George_Barbier
+    - https://en.wikipedia.org/wiki/George_Barbier_(illustrator)
+creator:
+  author:
+    agent_name: Boylesve, René
+    aliases:
+    - Tardivaux, René
+    - Boylesve, Rene
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '8323'
+    url: http://www.gutenberg.org/2009/agents/8323
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+description: ''
+gutenberg_bookshelf:
+- FR Séduction et libertinage
+- FR Illustrateurs
+- FR Nouveautés
+gutenberg_issued: '2020-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61500'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Les Bains de Bade: Petit Roman d''aventures Galantes et Norales'
+url: http://www.gutenberg.org/ebooks/61500
